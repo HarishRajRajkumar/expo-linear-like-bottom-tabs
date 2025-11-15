@@ -4,7 +4,7 @@ A sleek Linear-inspired bottom tab bar for React Native — smooth, minimal, and
 
 ## 🎥 Preview
 
-[https://github.com/user-attachments/assets/c4280638-5dc2-4b34-9ad8-2a73f46c9a70](https://github.com/user-attachments/assets/c4280638-5dc2-4b34-9ad8-2a73f46c9a70)
+https://github.com/user-attachments/assets/620918fd-5cea-4319-bd72-9b8c96d47b91
 
 ---
 
